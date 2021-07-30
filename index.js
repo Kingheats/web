@@ -9,4 +9,9 @@
 // i have a new insert 2021-07-30...
 
 
-now i have a new insert 2021-07-30--02
+// now i have a new insert 2021-07-30--02  internet
+
+// i nave a diffrence                       offline
+
+// i have a insert                         offline
+
