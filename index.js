@@ -17,7 +17,7 @@
 // i have a insert                         offline
 
 // now i have a new insert 2021-07-30--02
-
+// new insert    2021-08-02-0433 ----internet
 
 // now i have a new insert 2021-07-30--02
 // new insert 2021-07-30-03--internet
@@ -29,3 +29,4 @@
 // new insert 2021-08-02-02  internet
 
 // new insert 2021-08-02-03 offline
+// new insert 2021-08-02-0434-   internet
